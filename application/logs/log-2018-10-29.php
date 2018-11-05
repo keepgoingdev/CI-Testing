@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-10-29 02:38:11 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:38:16 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:38:54 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:39:29 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:39:44 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:42:31 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:43:25 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:45:00 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:45:00 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:45:50 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:47:18 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:48:57 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:51:49 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:53:26 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:53:26 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:54:15 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:55:17 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:56:07 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 02:56:56 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 07:36:01 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:26:31 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:26:35 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:28:05 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:29:19 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:38:36 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:41:33 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:41:59 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:43:30 --> 404 Page Not Found: Assets/global
+ERROR - 2018-10-29 19:44:42 --> 404 Page Not Found: Assets/global
