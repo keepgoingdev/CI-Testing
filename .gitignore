@@ -28,3 +28,6 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 ## assets files
 assets
+
+##tests build files
+application/tests/build/*

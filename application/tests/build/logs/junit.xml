@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Welcome_test" file="E:\repository\deltagare\application\tests\controllers\Welcome_test.php" tests="3" assertions="3" failures="1" errors="0" time="0.072992">
-    <testcase name="test_index" class="Welcome_test" file="E:\repository\deltagare\application\tests\controllers\Welcome_test.php" line="13" assertions="1" time="0.045577">
-      <failure type="PHPUnit_Framework_ExpectationFailedException">Welcome_test::test_index&#13;
-Failed asserting that 'Welcome/index is not found' contains "&lt;title&gt;Welcome to CodeIgniter&lt;/title&gt;".
-&#13;
-E:\repository\deltagare\application\tests\controllers\Welcome_test.php:16
-</failure>
-    </testcase>
-    <testcase name="test_method_404" class="Welcome_test" file="E:\repository\deltagare\application\tests\controllers\Welcome_test.php" line="19" assertions="1" time="0.026664"/>
-    <testcase name="test_APPPATH" class="Welcome_test" file="E:\repository\deltagare\application\tests\controllers\Welcome_test.php" line="25" assertions="1" time="0.000751"/>
+  <testsuite name="Temperature_converter_test" file="E:\repository\deltagare\application\tests\libraries\Temperature_converter_test.php" tests="1" assertions="1" failures="0" errors="0" time="0.002328">
+    <testcase name="test_FtoC" class="Temperature_converter_test" file="E:\repository\deltagare\application\tests\libraries\Temperature_converter_test.php" line="4" assertions="1" time="0.002328"/>
   </testsuite>
 </testsuites>
