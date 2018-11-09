@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Temperature_converter_test" file="E:\repository\deltagare\application\tests\libraries\Temperature_converter_test.php" tests="1" assertions="1" failures="0" errors="0" time="0.002328">
-    <testcase name="test_FtoC" class="Temperature_converter_test" file="E:\repository\deltagare\application\tests\libraries\Temperature_converter_test.php" line="4" assertions="1" time="0.002328"/>
+  <testsuite name="CodeIgniter Application Test Suite" tests="5" assertions="16" failures="0" errors="0" time="1.719204">
+    <testsuite name="Course_controller_test" file="E:\repository\deltagare\application\tests\controllers\Course_controller_test.php" tests="1" assertions="3" failures="0" errors="0" time="1.508042">
+      <testcase name="test_When_you_search_course_name_Then_check_results" class="Course_controller_test" file="E:\repository\deltagare\application\tests\controllers\Course_controller_test.php" line="4" assertions="3" time="1.508042"/>
+    </testsuite>
+    <testsuite name="Course_event_controller_test" file="E:\repository\deltagare\application\tests\controllers\Course_event_controller_test.php" tests="3" assertions="9" failures="0" errors="0" time="0.167159">
+      <testcase name="test_When_you_search_teacher_name_Then_check_results" class="Course_event_controller_test" file="E:\repository\deltagare\application\tests\controllers\Course_event_controller_test.php" line="4" assertions="3" time="0.082672"/>
+      <testcase name="test_When_you_search_city_Then_check_results" class="Course_event_controller_test" file="E:\repository\deltagare\application\tests\controllers\Course_event_controller_test.php" line="25" assertions="3" time="0.042082"/>
+      <testcase name="test_When_you_search_course_code_Then_check_results" class="Course_event_controller_test" file="E:\repository\deltagare\application\tests\controllers\Course_event_controller_test.php" line="46" assertions="3" time="0.042405"/>
+    </testsuite>
+    <testsuite name="Teacher_controller_test" file="E:\repository\deltagare\application\tests\controllers\Teacher_controller_test.php" tests="1" assertions="4" failures="0" errors="0" time="0.044003">
+      <testcase name="test_When_you_search_teacher_name_Then_check_results" class="Teacher_controller_test" file="E:\repository\deltagare\application\tests\controllers\Teacher_controller_test.php" line="4" assertions="4" time="0.044003"/>
+    </testsuite>
   </testsuite>
 </testsuites>

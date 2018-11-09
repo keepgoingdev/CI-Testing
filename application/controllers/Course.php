@@ -1163,7 +1163,8 @@ class Course extends CI_Controller {
 
         /* Limit the results and perform the query */
 
-        $this->db->limit($limit, $start);
+        if(isset($start) && !is_null($start) && isset($limit) && !is_null($limit))
+            $this->db->limit($limit, $start);
 
 		$query = $this->db->get();
 
